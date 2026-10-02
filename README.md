@@ -1,4 +1,4 @@
-[INSTALL_README.md](https://github.com/user-attachments/files/32966306/INSTALL_README.md)
+[INSTALL_README.md](https://github.com/user-attachments/files/32972211/INSTALL_README.md)
 # MedoraX - Installation Guide
 
 Welcome to **MedoraX** - Smart Clinic & Hospital Management System.
